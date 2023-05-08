@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- FACEBOOK : Aimen biukhari 
+- FACEBOOK : Aimen boukhari 
 - Instagram 😁 🅰️:aimen_.boukhari
 - email ✉️✉️ : aymne011@gmail.com
 
