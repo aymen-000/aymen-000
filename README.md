@@ -5,7 +5,7 @@
 - mathematics specially number theory 
 - also in machine learning artificial intelligence and quantum computers
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning projects...
 - 📫 How to reach me 
 - FACEBOOK : Aimen boukhari 
 - Instagram 😁 🅰️:aimen_.boukhari
