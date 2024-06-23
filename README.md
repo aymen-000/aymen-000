@@ -10,6 +10,8 @@
 - FACEBOOK : Aimen boukhari 
 - Instagram 😁 🅰️:aimen_.boukhari
 - email ✉️✉️ : aymne011@gmail.com
+- portfolio : https://boukhariaimen.netlify.app/
+- medium : https://medium.com/@aymne011 
 
 <!---
 aymen-000/aymen-000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
