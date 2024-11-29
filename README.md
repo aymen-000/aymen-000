@@ -1,5 +1,8 @@
 <!-- HTML -->
+<div style="display:flex ; justify:center" >
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
 - 👋 Hi, I’m AIMEN BOUKHARI 
 - a computer science student at higher school of computer science 
 - from Algeria 🇩🇿🇩🇿🇩🇿🇩🇿
