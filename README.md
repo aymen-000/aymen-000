@@ -1,3 +1,5 @@
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 - 👋 Hi, I’m AIMEN BOUKHARI 
 - a computer science student at higher school of computer science 
 - from Algeria 🇩🇿🇩🇿🇩🇿🇩🇿
