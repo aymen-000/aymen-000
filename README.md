@@ -1,6 +1,9 @@
 <!-- HTML -->
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <div>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </div>
+  
 </div>
 
 - 👋 Hi, I’m AIMEN BOUKHARI 
