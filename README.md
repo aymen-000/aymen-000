@@ -121,9 +121,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=aymen-000&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen-000&theme=react&layout=compact" />
-</p>
