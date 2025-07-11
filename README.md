@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boukhari Aimen <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Boukhari Aimen </h1>
 <h3 align="center">A passionate AI Developer, MERN Stack Developer  from Algeria</h3>
 
 - 🔭 I’m currently working on my **AI and Machine Learning Projects**
