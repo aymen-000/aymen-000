@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boukhari Aimen </h1>
-<h3 align="center">A passionate AI Developer, MERN Stack Developer  from Algeria</h3>
+<h3 align="center">A passionate AI Developer from Algeria</h3>
 
 - 🔭 I’m currently working on my **AI and Machine Learning Projects**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **aymne011@gmail.com**
 
-- ⚡ What I like to do: **I enjoy coding, designing, basketball, and exploring cutting-edge technologies**
+- ⚡ What I like to do: **I enjoy coding, designing, and exploring cutting-edge technologies**
 
 
 <h3 align="center">Connect with me:</h3>
