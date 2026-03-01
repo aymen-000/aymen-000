@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Boukhari%20Aimen&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Algeria%20🇩🇿&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
-<!-- ANIMATED TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🤖+Building+the+Future+with+AI;🧠+Deep+Learning+%26+LLM+Enthusiast;⚡+Agentic+AI+Explorer;🚀+Turning+Ideas+into+Intelligence" alt="Typing SVG" />
-</div>
 
 <br/>
 
