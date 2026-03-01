@@ -101,12 +101,12 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoukhariAimen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukhariAimen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aymen-000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymen-000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoukhariAimen&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-000&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="Streak Stats"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ me.say_hi()
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BoukhariAimen&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aymen-000&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 ---
@@ -134,5 +134,5 @@ me.say_hi()
 <div align="center">
   <i>⚡ "The best way to predict the future is to build it with AI." ⚡</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=BoukhariAimen&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aymen-000&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views"/>
 </div>
