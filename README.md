@@ -19,8 +19,7 @@
 ```
 
 </div>
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6dHl5bHp1MWQ4OWZtbGpnN2NzdTB1dGN3NGJ3NjltNWJnMHcxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding anime gif"/>
+<div align="center">
 
 ### 🧬 About Me
 
@@ -42,10 +41,7 @@ me = AimenBoukhari()
 me.say_hi()
 ```
 
-<br clear="right"/>
-
----
-
+</div>
 ### 🌐 Connect With Me
 
 <div align="center">
