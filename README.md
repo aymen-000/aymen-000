@@ -49,9 +49,9 @@ how can small systems see so well?
 
 ### 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymen-000&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymen-000&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymen-000&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymen-000&theme=tokyonight&hide_border=true)
 
 ---
 
