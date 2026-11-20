@@ -4,40 +4,30 @@ AI Developer — Algeria 🇩🇿
 
 ---
 
-### 🧠
+### 
 
-I explore representations hidden in latent space,  
-where models learn without labels,  
+I explore latent space,  
+where models learn without labels  
 and structure emerges from silence.  
 
-Self-supervised learning is my starting point —  
 I build the cake (SSL),  
-and you put the cherry (RL).  
+you put the cherry (RL). 🍒  
 
 ---
 
-I am drawn to reasoning in AI,  
-not just what models predict,  
-but *how* they think.  
+I care about *how* models think,  
+not just what they predict.  
 
-Beyond equations and optimization,  
-I look for the core —  
-the mechanisms beneath intelligence.  
+I look for the mechanisms beneath intelligence.  
 
 ---
 
-I am inspired by vision,  
-not only from machines,  
-but from nature itself.  
-
-From the simplicity of insects,  
-to the efficiency of perception,  
-I ask:  
-how can small systems see so well?  
+I'm inspired by vision in nature:  
+how can small insect brains see so well?  
 
 ---
 
-### 🌌
+### 
 
 - Latent space representations  
 - Self-supervised learning  
@@ -47,11 +37,24 @@ how can small systems see so well?
 
 ---
 
-### 📊
+###  Currently Building 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymen-000&show_icons=true&theme=tokyonight&hide_border=true)
+**[VLAForge](https://github.com/aymen-000/VLAForge)**: a framework for Vision-Language-Action models.  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymen-000&theme=tokyonight&hide_border=true)
+Where seeing meets language,  
+and language becomes action.  
+
+🤝 **Contributors welcome!** Open an issue, send a PR, or drop a ⭐.  
+
+---
+
+### 
+
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/machine_learning.png" alt="xkcd: Machine Learning" width="300"/>
+  <br/>
+  <sub>Source: <a href="https://xkcd.com/1838/">xkcd #1838</a> (CC BY-NC 2.5)</sub>
+</p>
 
 ---
 
@@ -59,8 +62,7 @@ how can small systems see so well?
 
 LinkedIn: https://linkedin.com/in/aimen-boukhari-5a64b9284  
 Email: aymne011@gmail.com  
-Portfolio: https://aimen-boukhari.netlify.app/
-
+Portfolio: https://aimen-boukhari.netlify.app/  
 
 ---
 
